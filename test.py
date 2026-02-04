@@ -6,4 +6,3 @@ print('hello')
 print(2+2)
 print(LICZBA+3)
 
-print('hello)
